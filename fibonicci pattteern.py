@@ -1,6 +1,6 @@
 ab=2
 for i in range(5):
-    a=1
+    a=
     b=1
     print()
     for j in range(ab):
